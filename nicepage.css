@@ -46263,12 +46263,22 @@ a.u-link.u-text-hover-color-var:hover {
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 100px;
+  }
+
   .u-header .u-image-1 {
-    margin-left: -71px;
+    margin-top: 20px;
+    margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-left: 10px;
+    margin: -46px 0 34px auto;
+  }
+
+  .u-header .u-hamburger-link-1 {
+    padding-left: 4px;
+    padding-right: 4px;
   }
 }
 @media (max-width: 767px) {
@@ -46277,16 +46287,20 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-menu-1 {
+    margin-top: 20px;
+    margin-right: 0;
     margin-left: -108px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-image-1 {
-    margin-left: -229px;
+    margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-left: -213px;
+    margin-top: -46px;
+    margin-right: 0;
+    margin-left: auto;
   }
 }
 .u-footer .u-sheet-1 {

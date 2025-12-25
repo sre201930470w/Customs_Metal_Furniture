@@ -110,12 +110,12 @@
 
 @media (max-width: 991px) {
    .u-section-1 {
-    min-height: 838px;
+    min-height: 930px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 100px;
-    margin-bottom: -100px;
+    margin-bottom: -8px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -154,11 +154,11 @@
 
 @media (max-width: 767px) {
    .u-section-1 {
-    min-height: 801px;
+    min-height: 910px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-bottom: -134px;
+    margin-bottom: -25px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -198,16 +198,16 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 1151px;
+    min-height: 0;
   }
 
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 75px;
-    margin-bottom: 44px;
+    margin-bottom: 0;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 1032px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -240,6 +240,7 @@
   }
 } .u-section-2 {
   background-image: url("images/CabinetsBackground02.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -529,10 +530,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-sheet-1 {
     min-height: 5825px;
   }
@@ -555,6 +552,7 @@
   }
 } .u-section-3 {
   background-image: url("images/Background-Chairs01-Processed.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -916,10 +914,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 811px;
   }
@@ -1011,6 +1005,7 @@
   }
 } .u-section-4 {
   background-image: url("images/Background-Frames01-Processed.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -1362,10 +1357,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-4 {
-    background-position: 50% 50%;
-  }
-
   .u-section-4 .u-sheet-1 {
     min-height: 832px;
   }
@@ -1458,6 +1449,7 @@
   }
 } .u-section-5 {
   background-image: url("images/Background-Tables01-Processed.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -2292,10 +2284,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-5 {
-    background-position: 50% 50%;
-  }
-
   .u-section-5 .u-sheet-1 {
     min-height: 22774px;
   }
@@ -2318,6 +2306,7 @@
   }
 } .u-section-6 {
   background-image: url("images/Background-Shelves01-Processed.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -2702,10 +2691,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-6 {
-    background-position: 50% 50%;
-  }
-
   .u-section-6 .u-sheet-1 {
     min-height: 9218px;
   }
@@ -2726,6 +2711,7 @@
   }
 } .u-section-7 {
   background-image: url("images/Background-Stools01-Processed.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-7 .u-sheet-1 {
@@ -3460,10 +3446,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-7 {
-    background-position: 50% 50%;
-  }
-
   .u-section-7 .u-sheet-1 {
     min-height: 5033px;
   }

@@ -240,7 +240,6 @@
   }
 } .u-section-2 {
   background-image: url("images/CabinetsBackground02.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -420,16 +419,6 @@
   text-shadow: 5px 5px 20px rgba(0,0,0,0.5);
 }
 
-.u-section-2 .u-back-slide-15 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.5);
-  text-shadow: 5px 5px 20px rgba(0,0,0,0.5);
-}
-
-.u-section-2 .u-back-image-15 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
 .u-section-2 .u-over-slide-15 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
@@ -479,7 +468,7 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1771px;
+    min-height: 1259px;
   }
 
   .u-section-2 .u-text-1 {
@@ -530,6 +519,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 5825px;
   }
@@ -552,7 +545,6 @@
   }
 } .u-section-3 {
   background-image: url("images/Background-Chairs01-Processed.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -914,6 +906,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 811px;
   }
@@ -1005,7 +1001,6 @@
   }
 } .u-section-4 {
   background-image: url("images/Background-Frames01-Processed.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -1357,6 +1352,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-4 {
+    background-position: 50% 50%;
+  }
+
   .u-section-4 .u-sheet-1 {
     min-height: 832px;
   }
@@ -1449,7 +1448,6 @@
   }
 } .u-section-5 {
   background-image: url("images/Background-Tables01-Processed.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -2284,6 +2282,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-5 {
+    background-position: 50% 50%;
+  }
+
   .u-section-5 .u-sheet-1 {
     min-height: 22774px;
   }
@@ -2306,7 +2308,6 @@
   }
 } .u-section-6 {
   background-image: url("images/Background-Shelves01-Processed.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -2691,6 +2692,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-6 {
+    background-position: 50% 50%;
+  }
+
   .u-section-6 .u-sheet-1 {
     min-height: 9218px;
   }
@@ -2711,7 +2716,6 @@
   }
 } .u-section-7 {
   background-image: url("images/Background-Stools01-Processed.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-7 .u-sheet-1 {
@@ -3446,6 +3450,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-7 {
+    background-position: 50% 50%;
+  }
+
   .u-section-7 .u-sheet-1 {
     min-height: 5033px;
   }
